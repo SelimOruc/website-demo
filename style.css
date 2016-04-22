@@ -1,0 +1,22 @@
+ h1
+    {
+        color: blue;
+    }
+        
+    p 
+    {
+     margin-top: 50px;   
+    }    
+        
+    p,ul
+    {
+        color: green;
+    }    
+        
+       
+    img
+    {
+        width: 50%;
+    }
+    
+    
